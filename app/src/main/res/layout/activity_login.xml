@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+    tools:context=".Login">
+
+    <com.google.android.gms.common.SignInButton
+        android:id="@+id/sign_in_button"
+        android:layout_width="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_height="wrap_content" />
+
+    <androidx.cardview.widget.CardView
+        android:layout_marginTop="10dp"
+        android:id="@+id/faqhead"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardBackgroundColor="#028f81"
+        app:cardCornerRadius="20dp"
+        android:layout_marginRight="10dp"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="10dp"
+        android:layout_centerHorizontal="true">
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_margin="10dp"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        android:text="Log in with your Google Account, so that we can trace your location in case of emergency. \n\n\nThis app will take your location, send it to your selected and inputted contact numbers using SMS System and Alert the database manager in case of emergency.\n\n Kindly allow permissons for :
+\n     1. Location : For tracking your live location\n     2. Phone Calling : To call emergency numbers instantly\n     3. SMS : To send emergency SMSs to your contacts\n\n\nNone of your personal data will be taken\n"
+        />
+    </androidx.cardview.widget.CardView>
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        app:srcCompat="@drawable/icon" />
+
+</RelativeLayout>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "58018584995",
+    "firebase_url": "https://surakshaappforwomen.firebaseio.com",
+    "project_id": "surakshaappforwomen",
+    "storage_bucket": "surakshaappforwomen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58018584995:android:22dbe2c6384f1830792216",
+        "android_client_info": {
+          "package_name": "com.suraksha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58018584995-jh7el6g0v67pfrqlq78f0ek1ghlsmcf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY2OnlP899ZFcHupmgjUaXZPgCv6mOHPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58018584995-jh7el6g0v67pfrqlq78f0ek1ghlsmcf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
