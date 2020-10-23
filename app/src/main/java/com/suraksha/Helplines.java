@@ -54,14 +54,14 @@ public class Helplines extends AppCompatActivity {
         findViewById(R.id.card5).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                call("1091");
+                call("102");
             }
         });
 
         findViewById(R.id.card6).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                call("102");
+                call("1092");
             }
         });
         findViewById(R.id.card7).setOnClickListener(new View.OnClickListener() {

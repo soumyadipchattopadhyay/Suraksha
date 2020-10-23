@@ -179,13 +179,19 @@ public class MainActivity extends AppCompatActivity {
                 if (mInterstitialAd.isLoaded()) {
                     mInterstitialAd.show();
                 } else {
-                    Log.d("TAG", "The interstitial wasn't loaded yet.");
+                    Intent intent = new Intent(MainActivity.this, Developer.class);
+                    startActivity(intent);
                 }
 
                 mInterstitialAd.setAdListener(new AdListener() {
                     @Override
                     public void onAdLoaded() {
-                        // Code to be executed when an ad finishes loading.
+                        if (mInterstitialAd.isLoaded()) {
+                            mInterstitialAd.show();
+                        } else {
+                            Intent intent = new Intent(MainActivity.this, Developer.class);
+                            startActivity(intent);
+                        }
                     }
 
 

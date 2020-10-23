@@ -36,6 +36,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iqYysc8qw2X2zQ6OBeVgcxH2Kc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -160,22 +163,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="275" key="AndroidCreateResourceFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602692654877" />
-    <state width="1877" height="237" key="GridCell.Tab.0.bottom" timestamp="1602950382812">
+    <state width="1877" height="237" key="GridCell.Tab.0.bottom" timestamp="1602953746727">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="237" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602950382812" />
-    <state width="1877" height="237" key="GridCell.Tab.0.center" timestamp="1602950382811">
+    <state width="1877" height="237" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602953746727" />
+    <state width="1877" height="237" key="GridCell.Tab.0.center" timestamp="1602953746727">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="237" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602950382811" />
-    <state width="1877" height="237" key="GridCell.Tab.0.left" timestamp="1602950382811">
+    <state width="1877" height="237" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602953746727" />
+    <state width="1877" height="237" key="GridCell.Tab.0.left" timestamp="1602953746727">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="237" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602950382811" />
-    <state width="1877" height="237" key="GridCell.Tab.0.right" timestamp="1602950382812">
+    <state width="1877" height="237" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602953746727" />
+    <state width="1877" height="237" key="GridCell.Tab.0.right" timestamp="1602953746727">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="237" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602950382812" />
+    <state width="1877" height="237" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602953746727" />
     <state x="776" y="298" key="chooseDestDirectoryDialog" timestamp="1602692714162">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
